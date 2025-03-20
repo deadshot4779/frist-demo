@@ -1,2 +1,3 @@
 # frist-demo
-frist repository
+my frist repository
+author - deadshot
