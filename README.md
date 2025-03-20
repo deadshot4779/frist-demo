@@ -1,4 +1,4 @@
 # frist-demo
 my frist repository.
 <br>
-author - deadshot
+author - deadshot(gamer)
